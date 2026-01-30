@@ -10,7 +10,7 @@ A aplicação foi desenvolvida com foco em identidade visual, responsividade e e
 
 O site está hospedado em:
 
-👉 https://curious-phoenix-ed69f1.netlify.app
+👉 [https://curious-phoenix-ed69f1.netlify.app](https://marcosalencar.netlify.app)
 
 ---
 
